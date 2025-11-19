@@ -9,7 +9,7 @@
 
 ### 🚀 **About Me**
 - 🎓 ICT Undergraduate at the **University of Colombo**  
-- 💻 Passionate about ** Mobile Development and Full-Stack Projects**  
+- 💻 Passionate about **Mobile Development and Full-Stack Projects**  
 - 🌱 Currently improving skills in **React, Laravel and Flutter**  
 - 👨‍💻 Check out all my projects: **[Portfolio Website](https://nipun909.vercel.app/)**  
 - 📫 Reach me at: **thilakshana956@gmail.com**
